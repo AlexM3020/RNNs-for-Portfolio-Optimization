@@ -1,0 +1,6 @@
+strategy,Expected Return (Annualized),Volatility (Annualized),Sharpe Ratio,Sortino Ratio,Maximum Drawdown,% Positive Returns,Avg Gain/Avg Loss,Max Log Cumulative Sum
+LSTM,0.1641,0.0988,1.6607,2.2263,-0.149,55.23,1.148,2.373
+Minimum Variance,0.1506,0.1016,1.4822,2.3136,-0.2293,53.91,1.0651,2.1593
+Fixed Allocation 1,0.0967,0.1018,0.9498,1.9059,-0.0764,46.38,1.3355,1.3897
+Fixed Allocation 2,0.1068,0.1012,1.0552,1.9303,-0.1185,49.27,1.2046,1.5375
+Historical mean–variance (MD label),0.032,0.1022,0.3134,0.5338,-0.2308,46.23,1.1714,0.5591

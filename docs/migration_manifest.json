@@ -1,0 +1,451 @@
+{
+  "source_commits": {
+    "portfolio-lstm": "180889d1dff70d84b5496125d191ec3d1d23fe0b",
+    "PortfolioOptimizationICM": "3993334223923ffee2c585278a5bdedf82918ff7"
+  },
+  "files": [
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "README.md",
+      "destination": "legacy/code-repository/README.md",
+      "sha256": "ee9f17bca3c32c56b5424aa656728a08b56853dbcaa2226c0a9b4a5cfcd434a2",
+      "source_git_sha256": "33e8728d52a2ec78c48a8cd7c4ca061e3aaf940e96b5c45d679450233abaccc2"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "data.py",
+      "destination": "legacy/code-repository/data.py",
+      "sha256": "81c4326949e8a26862e3d5cccf6712b22a4af4733eeb60e2ca7166f709a8a87a",
+      "source_git_sha256": "ef722497aa20979101d3cd8d2be29289dfecc8116720d494b2a29b18a7e8ade0"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "model.py",
+      "destination": "legacy/code-repository/model.py",
+      "sha256": "80fc938b1a37d6a98775cf23ef36c0fc7b0fe1ec364e118d5b72df6b13d6b0da",
+      "source_git_sha256": "caa88b86f52bf2fe210a0fb0d5b27d39fcc3c8e8a44ef5551e7a7f15002f5575"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "model_eval.py",
+      "destination": "legacy/code-repository/model_eval.py",
+      "sha256": "6b998aba0a763ddd0f38715579e9a40826731ea143377384fbbbb665e7679b09",
+      "source_git_sha256": "ff7dcadbe715b5f285fbcdfd6dc1c7355cba2927e2d5348c66fe3233d8b3c725"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "mv_eval.py",
+      "destination": "legacy/code-repository/mv_eval.py",
+      "sha256": "9c6e98bace4900cd1d0bbea927713670e1c7be736b208fcffb786a59fb6d0066",
+      "source_git_sha256": "9c6e98bace4900cd1d0bbea927713670e1c7be736b208fcffb786a59fb6d0066"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "mv_model.py",
+      "destination": "legacy/code-repository/mv_model.py",
+      "sha256": "5698070999d2f6257ab4939a05960b2101833eb92d11f27d868c17b124548259",
+      "source_git_sha256": "5698070999d2f6257ab4939a05960b2101833eb92d11f27d868c17b124548259"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "mv_plots.py",
+      "destination": "legacy/code-repository/mv_plots.py",
+      "sha256": "b87cd3281b19e375870fdfbc75a241f520b9e43dc9806b6742417d56da474014",
+      "source_git_sha256": "b87cd3281b19e375870fdfbc75a241f520b9e43dc9806b6742417d56da474014"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "mv_training.py",
+      "destination": "legacy/code-repository/mv_training.py",
+      "sha256": "eb5ba612af1de7462453b3eb66bd3ea06c32b70bda08625189f066090816e212",
+      "source_git_sha256": "eb5ba612af1de7462453b3eb66bd3ea06c32b70bda08625189f066090816e212"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "plots.py",
+      "destination": "legacy/code-repository/plots.py",
+      "sha256": "51ad8cdda99d3c7730238931caa381b28ba2186821e082a18fae7030aee45b23",
+      "source_git_sha256": "73502d5a3192bb4451d5776bfe18e354b5f815dac186c7c532a00b7868134a58"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "preprocessing.py",
+      "destination": "legacy/code-repository/preprocessing.py",
+      "sha256": "6f9019a5917b6123b9f34b139d170994d6f6cc2d440293a6d4def7b24d5403cd",
+      "source_git_sha256": "a41b0ce71948a2c5981d7df8aac629382ff50ec6685a58fe359033d0704551de"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "sharp_ratio.py",
+      "destination": "legacy/code-repository/sharp_ratio.py",
+      "sha256": "0f4c5c7291f1d79220c5c02344580fc40418d839f716b1af7fd79243fa5a6a7b",
+      "source_git_sha256": "c87cea53a9047b692a1838b295db09a5738448a84c500925c5fde52363161f2a"
+    },
+    {
+      "repository": "portfolio-lstm",
+      "source_path": "training.py",
+      "destination": "legacy/code-repository/training.py",
+      "sha256": "bcca0445cd0f5a182861d4e01030ba2c1f8a0a1b64ae975710ec80882eb29aa2",
+      "source_git_sha256": "01dbe4050a4a1cd895299fa4aec497d0f6133b4ff57791c1040a4d8507969cbd"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "README.md",
+      "destination": "legacy/results-repository/README.md",
+      "sha256": "a1b0838823773f1e405ad7cc9bd5274f49fa1e6fdfe888565a86942f452d9283",
+      "source_git_sha256": "a1b0838823773f1e405ad7cc9bd5274f49fa1e6fdfe888565a86942f452d9283"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "compare.py",
+      "destination": "legacy/results-repository/compare.py",
+      "sha256": "4d2c4646512d058dcba439d40b21728682a07d35616e4bb7bc089fe353560fdb",
+      "source_git_sha256": "4d2c4646512d058dcba439d40b21728682a07d35616e4bb7bc089fe353560fdb"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "data.py",
+      "destination": "legacy/results-repository/data.py",
+      "sha256": "895154dcafd616786fcc425fe1fa0f2659d33be4fbce5502b3a3a76ac950072a",
+      "source_git_sha256": "895154dcafd616786fcc425fe1fa0f2659d33be4fbce5502b3a3a76ac950072a"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "drawdown_analysis.py",
+      "destination": "legacy/results-repository/drawdown_analysis.py",
+      "sha256": "5b60161cbbeeda8f56a52f16644b668f38c83d89e40bef4a5b553b4d2cc05586",
+      "source_git_sha256": "5b60161cbbeeda8f56a52f16644b668f38c83d89e40bef4a5b553b4d2cc05586"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "etf_data_2006_2023.csv",
+      "destination": "data/snapshots/etf_data_2006_2023.csv",
+      "sha256": "1f7ca1f2a4d3e8312635b75844baed5815f62f558ecce918a7ca31631a19e5e1",
+      "source_git_sha256": "1f7ca1f2a4d3e8312635b75844baed5815f62f558ecce918a7ca31631a19e5e1"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "etf_data_2010_2022.csv",
+      "destination": "data/snapshots/etf_data_2010_2022.csv",
+      "sha256": "a30325a3201e89d643b11708bf3c863e3a7a71ba57a0082426de0fafd9012b71",
+      "source_git_sha256": "a30325a3201e89d643b11708bf3c863e3a7a71ba57a0082426de0fafd9012b71"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "etf_data_2010_2024.csv",
+      "destination": "data/snapshots/etf_data_2010_2024.csv",
+      "sha256": "7c1bac2baa761d63eb892fa843f820fada9b726f1cdb3bb875468f97be7ed42b",
+      "source_git_sha256": "7c1bac2baa761d63eb892fa843f820fada9b726f1cdb3bb875468f97be7ed42b"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "etf_features.csv",
+      "destination": "data/snapshots/etf_features.csv",
+      "sha256": "0770d6383a1a756ddce5a92100424925c347f2753fade9143b62d1b3c4e909ea",
+      "source_git_sha256": "0770d6383a1a756ddce5a92100424925c347f2753fade9143b62d1b3c4e909ea"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "fixed_alloc.py",
+      "destination": "legacy/results-repository/fixed_alloc.py",
+      "sha256": "fa228f9edd0c2a043507699df12214d6c9f2a6eb0daa7f5a279c9c75f626e7c1",
+      "source_git_sha256": "fa228f9edd0c2a043507699df12214d6c9f2a6eb0daa7f5a279c9c75f626e7c1"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_1.png",
+      "destination": "results/historical/figures/Figure_1.png",
+      "sha256": "5ee21f05cd707969cfef82e24b75a2e1ff20175fe7170724daa26eaeff768398",
+      "source_git_sha256": "5ee21f05cd707969cfef82e24b75a2e1ff20175fe7170724daa26eaeff768398"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_10.png",
+      "destination": "results/historical/figures/Figure_10.png",
+      "sha256": "c4196c45e4addc7e7fa169db868f698ff4f8ec77f385ce4d079222f4c6740957",
+      "source_git_sha256": "c4196c45e4addc7e7fa169db868f698ff4f8ec77f385ce4d079222f4c6740957"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_11.png",
+      "destination": "results/historical/figures/Figure_11.png",
+      "sha256": "438835cfa27b111d0570e366091f87488edcfdc8320fdaf52a038ad50f6126a3",
+      "source_git_sha256": "438835cfa27b111d0570e366091f87488edcfdc8320fdaf52a038ad50f6126a3"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_12.png",
+      "destination": "results/historical/figures/Figure_12.png",
+      "sha256": "8525f0bcce6d0333d1e600d51286c9fe8fc33245c0387406402ff4749c814357",
+      "source_git_sha256": "8525f0bcce6d0333d1e600d51286c9fe8fc33245c0387406402ff4749c814357"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_13.png",
+      "destination": "results/historical/figures/Figure_13.png",
+      "sha256": "74356b654d629a002052386527bcd4f9b5169531d428791194f5de124478ef40",
+      "source_git_sha256": "74356b654d629a002052386527bcd4f9b5169531d428791194f5de124478ef40"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_14.png",
+      "destination": "results/historical/figures/Figure_14.png",
+      "sha256": "2d8a7d1989623864c192b511ca09184561f9b9a12dea9acef8f90999c97cc426",
+      "source_git_sha256": "2d8a7d1989623864c192b511ca09184561f9b9a12dea9acef8f90999c97cc426"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_2.png",
+      "destination": "results/historical/figures/Figure_2.png",
+      "sha256": "3089a168f6aa40f6bedfb28b1c0cbf40308cb2b0c06c0e505c119894281998df",
+      "source_git_sha256": "3089a168f6aa40f6bedfb28b1c0cbf40308cb2b0c06c0e505c119894281998df"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_3.png",
+      "destination": "results/historical/figures/Figure_3.png",
+      "sha256": "4eff22d87f61f226eb9b315f0ad43e41efd2b4baac2be7a03027122d3d8a1d4b",
+      "source_git_sha256": "4eff22d87f61f226eb9b315f0ad43e41efd2b4baac2be7a03027122d3d8a1d4b"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_4.png",
+      "destination": "results/historical/figures/Figure_4.png",
+      "sha256": "4072a292f708435e820a6f4348c74a01a10ffed576d2f1f259f1a690eff6bb63",
+      "source_git_sha256": "4072a292f708435e820a6f4348c74a01a10ffed576d2f1f259f1a690eff6bb63"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_5.png",
+      "destination": "results/historical/figures/Figure_5.png",
+      "sha256": "5c56b291bb7acf701e610db47a229a9e52a321071353960093690e406b7ab01d",
+      "source_git_sha256": "5c56b291bb7acf701e610db47a229a9e52a321071353960093690e406b7ab01d"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_6.png",
+      "destination": "results/historical/figures/Figure_6.png",
+      "sha256": "6daaba6607c5a2aa44cebeb8c3bf4cc47ff266a4418acac33aab387956c13f95",
+      "source_git_sha256": "6daaba6607c5a2aa44cebeb8c3bf4cc47ff266a4418acac33aab387956c13f95"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_7.png",
+      "destination": "results/historical/figures/Figure_7.png",
+      "sha256": "540257d8f2c650dc78e46dd4ff72cdf7570cda818666bee08b812936d7be426c",
+      "source_git_sha256": "540257d8f2c650dc78e46dd4ff72cdf7570cda818666bee08b812936d7be426c"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_8.png",
+      "destination": "results/historical/figures/Figure_8.png",
+      "sha256": "8051c30b39df54adfe9247ce33be5b2993d46d7f65e0659378a987e02e794670",
+      "source_git_sha256": "8051c30b39df54adfe9247ce33be5b2993d46d7f65e0659378a987e02e794670"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "images/Figure_9.png",
+      "destination": "results/historical/figures/Figure_9.png",
+      "sha256": "39437024d772dc1a54288ba97b8381546e308491d0069cab2a2730b1201398da",
+      "source_git_sha256": "39437024d772dc1a54288ba97b8381546e308491d0069cab2a2730b1201398da"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "md.py",
+      "destination": "legacy/results-repository/md.py",
+      "sha256": "832dce3a53fe93ac8d02db7abf4c2574d41779987461c9569b15890011d467b4",
+      "source_git_sha256": "832dce3a53fe93ac8d02db7abf4c2574d41779987461c9569b15890011d467b4"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "md_drawdown.npy",
+      "destination": "results/historical/artifacts/md_drawdown.npy",
+      "sha256": "781d3acbd825a67f5e493ea8d90e4630e23a52c6948fa31b306b5a6cdd9ee9a1",
+      "source_git_sha256": "781d3acbd825a67f5e493ea8d90e4630e23a52c6948fa31b306b5a6cdd9ee9a1"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "md_portfolio_returns.csv.npy",
+      "destination": "results/historical/artifacts/md_portfolio_returns.csv.npy",
+      "sha256": "f33ccb5961273276e8ba2c6328d769086454b13392e7240a08031d14cce5dcc1",
+      "source_git_sha256": "f33ccb5961273276e8ba2c6328d769086454b13392e7240a08031d14cce5dcc1"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "md_portfolio_returns.npy",
+      "destination": "results/historical/artifacts/md_portfolio_returns.npy",
+      "sha256": "f33ccb5961273276e8ba2c6328d769086454b13392e7240a08031d14cce5dcc1",
+      "source_git_sha256": "f33ccb5961273276e8ba2c6328d769086454b13392e7240a08031d14cce5dcc1"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "md_portfolio_returns_scaled.csv",
+      "destination": "results/historical/artifacts/md_portfolio_returns_scaled.csv",
+      "sha256": "a9ad4307fd45b865f006aa6d15bee9ec82befe591c2276b92bf5e9c577e9567b",
+      "source_git_sha256": "a9ad4307fd45b865f006aa6d15bee9ec82befe591c2276b92bf5e9c577e9567b"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "md_strategy_cumulative_returns.csv",
+      "destination": "results/historical/artifacts/md_strategy_cumulative_returns.csv",
+      "sha256": "4eaca1b67e10e3b1e0f74cf99d5d16f8d1740958c1d030f7fc6445750b2de997",
+      "source_git_sha256": "4eaca1b67e10e3b1e0f74cf99d5d16f8d1740958c1d030f7fc6445750b2de997"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "md_strategy_cumulative_returns_dynamic.csv",
+      "destination": "results/historical/artifacts/md_strategy_cumulative_returns_dynamic.csv",
+      "sha256": "c03e9d16d1e694a527f2bcd0d239c742778417eaefcc1519add73b888f20b558",
+      "source_git_sha256": "c03e9d16d1e694a527f2bcd0d239c742778417eaefcc1519add73b888f20b558"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "md_strategy_cumulative_returns_scaled.csv",
+      "destination": "results/historical/artifacts/md_strategy_cumulative_returns_scaled.csv",
+      "sha256": "6dd04d416c52e1078fe1d04c0143254d2e8e8d9cd59bf3b4fb363ef4cce25e54",
+      "source_git_sha256": "6dd04d416c52e1078fe1d04c0143254d2e8e8d9cd59bf3b4fb363ef4cce25e54"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "metrics_fixed.npy",
+      "destination": "results/historical/artifacts/metrics_fixed.npy",
+      "sha256": "651a75b0299e82f50796505fec36b8986d4c6a4ac28ba55dcf77eef1eeccff9e",
+      "source_git_sha256": "651a75b0299e82f50796505fec36b8986d4c6a4ac28ba55dcf77eef1eeccff9e"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "metrics_fixed_40.npy",
+      "destination": "results/historical/artifacts/metrics_fixed_40.npy",
+      "sha256": "7006c4d35e7e6a2791da397472745f21c4373c2328a6490cc6fb769db460e3ec",
+      "source_git_sha256": "7006c4d35e7e6a2791da397472745f21c4373c2328a6490cc6fb769db460e3ec"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "metrics_fixed_uniform.npy",
+      "destination": "results/historical/artifacts/metrics_fixed_uniform.npy",
+      "sha256": "651a75b0299e82f50796505fec36b8986d4c6a4ac28ba55dcf77eef1eeccff9e",
+      "source_git_sha256": "651a75b0299e82f50796505fec36b8986d4c6a4ac28ba55dcf77eef1eeccff9e"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "metrics_fixed_uniform_40.npy",
+      "destination": "results/historical/artifacts/metrics_fixed_uniform_40.npy",
+      "sha256": "7006c4d35e7e6a2791da397472745f21c4373c2328a6490cc6fb769db460e3ec",
+      "source_git_sha256": "7006c4d35e7e6a2791da397472745f21c4373c2328a6490cc6fb769db460e3ec"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "model.py",
+      "destination": "legacy/results-repository/model.py",
+      "sha256": "daa9be9429c59c5742dff7b7eee7d53c82b660c943adceb3af7796c1e403c660",
+      "source_git_sha256": "daa9be9429c59c5742dff7b7eee7d53c82b660c943adceb3af7796c1e403c660"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "model_eval.py",
+      "destination": "legacy/results-repository/model_eval.py",
+      "sha256": "752c79207b574f56a81160b05aa6728c1bac5b6303896ca39bb4614be8fe39e9",
+      "source_git_sha256": "752c79207b574f56a81160b05aa6728c1bac5b6303896ca39bb4614be8fe39e9"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "mv.py",
+      "destination": "legacy/results-repository/mv.py",
+      "sha256": "a634871c7d22e424f1ab3c2104e16ce0a9366b570e8195d1fa23479dadf6b644",
+      "source_git_sha256": "a634871c7d22e424f1ab3c2104e16ce0a9366b570e8195d1fa23479dadf6b644"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "mv_cum_returns.npy",
+      "destination": "results/historical/artifacts/mv_cum_returns.npy",
+      "sha256": "8cdeb2ee393c92472d2055f8a8f5c64ac4504c478105227c276324eb31d2c757",
+      "source_git_sha256": "8cdeb2ee393c92472d2055f8a8f5c64ac4504c478105227c276324eb31d2c757"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "mv_dates.npy",
+      "destination": "results/historical/artifacts/mv_dates.npy",
+      "sha256": "dc14d8358186af876c3af1ed023cdda3efe816b9f82e9feb9ec49a2c6d987e0c",
+      "source_git_sha256": "dc14d8358186af876c3af1ed023cdda3efe816b9f82e9feb9ec49a2c6d987e0c"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "mv_metrics.npy",
+      "destination": "results/historical/artifacts/mv_metrics.npy",
+      "sha256": "bf1ca6b0db0e334bd97fe3dd1fb5214a6b1fcd3c6b1530d4127c0a17f84f75e3",
+      "source_git_sha256": "bf1ca6b0db0e334bd97fe3dd1fb5214a6b1fcd3c6b1530d4127c0a17f84f75e3"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "plots_model_windows.py",
+      "destination": "legacy/results-repository/plots_model_windows.py",
+      "sha256": "a7ec345aa7cb9866a05152a4c49f07fcbd4612d22a382ba1d779afc277f41d82",
+      "source_git_sha256": "a7ec345aa7cb9866a05152a4c49f07fcbd4612d22a382ba1d779afc277f41d82"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "preprocessing.py",
+      "destination": "legacy/results-repository/preprocessing.py",
+      "sha256": "67665ed98ff62488aabc4dc1ee15f23259a5538f6e2d97e411d7eb3d49165160",
+      "source_git_sha256": "67665ed98ff62488aabc4dc1ee15f23259a5538f6e2d97e411d7eb3d49165160"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "sharp_ratio.py",
+      "destination": "legacy/results-repository/sharp_ratio.py",
+      "sha256": "0f4c5c7291f1d79220c5c02344580fc40418d839f716b1af7fd79243fa5a6a7b",
+      "source_git_sha256": "0f4c5c7291f1d79220c5c02344580fc40418d839f716b1af7fd79243fa5a6a7b"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "tables_comparison.py",
+      "destination": "legacy/results-repository/tables_comparison.py",
+      "sha256": "0314cb52ec9973892ebda595bbc9b1d3d74bcf270b1971b72fd435eac07591d4",
+      "source_git_sha256": "0314cb52ec9973892ebda595bbc9b1d3d74bcf270b1971b72fd435eac07591d4"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "source_path": "training_windows.py",
+      "destination": "legacy/results-repository/training_windows.py",
+      "sha256": "83da506b95c6a2ae024450cf53de67d50d3c98bca7acdd9536e17f5e9811cd41",
+      "source_git_sha256": "83da506b95c6a2ae024450cf53de67d50d3c98bca7acdd9536e17f5e9811cd41"
+    }
+  ],
+  "excluded": [
+    {
+      "repository": "PortfolioOptimizationICM",
+      "path": ".idea/.gitignore",
+      "reason": "IDE metadata"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "path": ".idea/ICM.iml",
+      "reason": "IDE metadata"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "path": ".idea/inspectionProfiles/profiles_settings.xml",
+      "reason": "IDE metadata"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "path": ".idea/misc.xml",
+      "reason": "IDE metadata"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "path": ".idea/modules.xml",
+      "reason": "IDE metadata"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "path": ".idea/vcs.xml",
+      "reason": "IDE metadata"
+    },
+    {
+      "repository": "PortfolioOptimizationICM",
+      "path": "code",
+      "reason": "gitlink without submodule URL; original Git bundle retains reference"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.png binary
+*.npy binary
+# Preserve historical bytes, including original CRLF and whitespace.
+legacy/** -text -whitespace
+data/snapshots/** -text -whitespace
+results/historical/** -text -whitespace

@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "portfolio-lstm"
+version = "0.2.0"
+description = "LSTM portfolio allocation: a course-project replication with preserved results"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26,<3", "pandas>=2.2,<4", "torch>=2.2,<3",
+    "scipy>=1.11,<2", "matplotlib>=3.8,<4",
+]
+
+[project.optional-dependencies]
+download = ["yfinance>=0.2.54,<2"]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+portfolio-lstm = "portfolio_lstm.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
